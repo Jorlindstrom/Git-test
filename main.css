@@ -8,6 +8,9 @@ h1 {
     border: 1px solid darkblue;
 }
 
-h2 {color: aquamarine 
+
+h2 {color: aquamarine}
     
+p {
+    color: orange;
 }
