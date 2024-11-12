@@ -8,9 +8,11 @@ h1 {
     border: 1px solid darkblue;
 }
 
-
-h2 {color: aquamarine}
+JennysTest
+h2 {
+    color: blue;
+}
     
 p {
-    color: orange;
+    color: orange; main
 }
